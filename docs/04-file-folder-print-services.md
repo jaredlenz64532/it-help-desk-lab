@@ -263,7 +263,7 @@ The home directory was configured to connect automatically to the Personal share
 
 ### Screenshot
 
-*Insert screenshot showing Home Folder configuration*
+![Alternative text](../screenshots/mappingadriveonAD.png)
 
 ---
 
@@ -291,10 +291,6 @@ Personal
 
 was created.
 
-### Screenshot
-
-*Insert screenshot showing Personal group creation*
-
 ---
 
 ## Assigning Group Permissions
@@ -304,10 +300,6 @@ Direct permissions assigned to Mike were removed.
 The Personal security group was granted access instead.
 
 Mike was then added to the group.
-
-### Screenshot
-
-*Insert screenshot showing Personal group permissions*
 
 ---
 
@@ -319,7 +311,7 @@ This validated the use of group-based access control for home directories.
 
 ### Screenshot
 
-*Insert screenshot showing successful Personal share access*
+![Alternative text](../screenshots/securitygrouppersonaldriveaccess.png)
 
 ---
 
