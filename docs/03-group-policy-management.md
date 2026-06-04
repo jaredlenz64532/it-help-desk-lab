@@ -170,7 +170,7 @@ The output displayed account information including password and lockout-related 
 
 ### Screenshot
 
-*Insert screenshot showing net user output*
+![Alternative text](../screenshots/mikegpoenforced.png)
 
 ---
 
@@ -188,7 +188,7 @@ Administrators commonly use this command when troubleshooting Group Policy issue
 
 ### Screenshot
 
-*Insert screenshot showing gpresult output*
+![Alternative text](../screenshots/grouppolicyresultontheDC.png)
 
 ---
 
@@ -209,10 +209,6 @@ User Configuration
 
 The policy was enabled.
 
-### Screenshot
-
-*Insert screenshot showing Remove Task Manager policy*
-
 ---
 
 ## Verification
@@ -223,7 +219,7 @@ Attempting to launch Task Manager resulted in a restriction message confirming t
 
 ### Screenshot
 
-*Insert screenshot showing Task Manager restriction message*
+![Alternative text](../screenshots/taskmanagerdisabled.png)
 
 ---
 
@@ -244,10 +240,6 @@ User Configuration
 
 This removed the ability for users to change their own passwords through the Windows security menu.
 
-### Screenshot
-
-*Insert screenshot showing Remove Change Password policy*
-
 ---
 
 ## Verification
@@ -256,7 +248,7 @@ After logging into the workstation, the Change Password option was no longer ava
 
 ### Screenshot
 
-*Insert screenshot showing removed Change Password option*
+![Alternative text](../screenshots/logoffchangepassdisabled.png)
 
 ---
 
@@ -278,10 +270,6 @@ User Configuration
 
 The policy was enabled.
 
-### Screenshot
-
-*Insert screenshot showing shutdown restriction policy*
-
 ---
 
 ## Verification
@@ -299,7 +287,7 @@ This confirmed successful deployment of the policy.
 
 ### Screenshot
 
-*Insert screenshot showing Start Menu restrictions*
+![Alternative text](../screenshots/usercanonlysignout.png)
 
 ---
 
