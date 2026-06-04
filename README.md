@@ -1,3 +1,5 @@
+![Alternative text](../screenshots/Windowsserver2022downloaded.png)
+
 # Active Directory Help Desk Homelab
 
 ## Overview
