@@ -66,7 +66,7 @@ The share was configured with administrator-only access during initial setup.
 
 ### Screenshot
 
-*Insert screenshot showing New Share Wizard*
+![Alternative text](../screenshots/creatingashareddrive.png)
 
 ---
 
@@ -76,7 +76,7 @@ The share appeared successfully within the Shares management console.
 
 ### Screenshot
 
-*Insert screenshot showing completed share creation*
+![Alternative text](../screenshots/sharecreated.png)
 
 ---
 
@@ -94,7 +94,7 @@ was created to simulate a department file share.
 
 ### Screenshot
 
-*Insert screenshot showing Tech folder creation*
+![Alternative text](../screenshots/foldershared.png)
 
 ---
 
@@ -103,10 +103,6 @@ was created to simulate a department file share.
 The folder properties were opened and access permissions were modified.
 
 The Everyone group was removed from access permissions to follow the principle of least privilege.
-
-### Screenshot
-
-*Insert screenshot showing removal of Everyone permissions*
 
 ---
 
@@ -122,7 +118,7 @@ This allowed Mike to create, edit, and remove files within the shared folder.
 
 ### Screenshot
 
-*Insert screenshot showing Mike added to folder permissions*
+![Alternative text](../screenshots/changingfolderpermissions.png)
 
 ---
 
@@ -138,7 +134,7 @@ Successful access confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing Mike accessing the Tech share*
+![Alternative text](../screenshots/usercanaccesssharedfolders.png)
 
 ---
 
