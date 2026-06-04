@@ -271,7 +271,7 @@ Scott was placed within this OU.
 
 ### Screenshot
 
-*Insert screenshot showing Scott account creation*
+![Alternative text](../screenshots/consultantaccountcreatedwithanou.png)
 
 ---
 
@@ -288,7 +288,7 @@ This configuration follows the principle of least privilege by granting only the
 
 ### Screenshot
 
-*Insert screenshot showing Delegation of Control Wizard*
+![Alternative text](../screenshots/scottcanonlyresetpasswords.png)
 
 ---
 
@@ -302,10 +302,6 @@ Testing confirmed:
 * Additional administrative privileges were not granted
 
 This demonstrated successful implementation of role-based administration.
-
-### Screenshot
-
-*Insert screenshot showing delegated permissions in action (if available)*
 
 ---
 
