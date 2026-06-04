@@ -156,7 +156,7 @@ The UNC path for the shared folder was entered.
 
 ### Screenshot
 
-*Insert screenshot showing mapped network drive configuration*
+![Alternative text](../screenshots/mappinganetworkdrive.png)
 
 ---
 
@@ -174,7 +174,7 @@ The output confirmed that the drive mapping had been established successfully.
 
 ### Screenshot
 
-*Insert screenshot showing net use output*
+![Alternative text](../screenshots/netuseshowsmappeddrive.png)
 
 ---
 
