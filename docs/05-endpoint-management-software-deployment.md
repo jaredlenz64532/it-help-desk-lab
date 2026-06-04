@@ -182,7 +182,7 @@ The deployment package was downloaded from the Action1 portal.
 
 ### Screenshot
 
-*Insert screenshot showing Agent Deployment section*
+![Alternative text](../screenshots/action1agentdeployment.png)
 
 ---
 
@@ -191,10 +191,6 @@ The deployment package was downloaded from the Action1 portal.
 The deployment package was transferred to the server using the VirtualBox shared folder.
 
 Deployment settings were configured to discover systems through Active Directory.
-
-### Screenshot
-
-*Insert screenshot showing deployment configuration*
 
 ---
 
@@ -206,7 +202,7 @@ This demonstrated centralized endpoint management capabilities.
 
 ### Screenshot
 
-*Insert screenshot showing deployment scope configuration*
+![Alternative text](../screenshots/action1agentscope.png)
 
 ---
 
