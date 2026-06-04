@@ -108,7 +108,7 @@ User Properties
 
 ### Screenshot
 
-*Insert screenshot showing logon hour restrictions*
+![Alternative text](../screenshots/johnpclogonhours.png)
 
 ---
 
@@ -122,7 +122,7 @@ This generated an account-disabled error message similar to those commonly encou
 
 ### Screenshot
 
-*Insert screenshot showing disabled account settings*
+![Alternative text](../screenshots/mikeaccountdisabled.png)
 
 ---
 
@@ -134,7 +134,7 @@ Authentication attempts confirmed that the account expiration policy was functio
 
 ### Screenshot
 
-*Insert screenshot showing account expiration configuration*
+![Alternative text](../screenshots/mikeaccountexpired.png)
 
 ---
 
