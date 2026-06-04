@@ -59,10 +59,6 @@ The platform provides functionality for:
 * Remote support
 * Resolution tracking
 
-### Screenshot
-
-*Insert screenshot showing Spiceworks dashboard*
-
 ---
 
 ## Exploring the Ticketing Interface
@@ -79,7 +75,7 @@ Key areas reviewed included:
 
 ### Screenshot
 
-*Insert screenshot showing ticket queue*
+![Alternative text](../screenshots/spiceworksticketing.png)
 
 ---
 
@@ -104,7 +100,7 @@ Information entered included:
 
 ### Screenshot
 
-*Insert screenshot showing ticket creation*
+![Alternative text](../screenshots/exampleticketcreated.png)
 
 ---
 
@@ -121,10 +117,6 @@ Examples included:
 
 Proper documentation helps ensure continuity of support and creates a record for future reference.
 
-### Screenshot
-
-*Insert screenshot showing internal notes*
-
 ---
 
 ## Closing the Ticket
@@ -135,7 +127,7 @@ The resolution was documented within the ticket record.
 
 ### Screenshot
 
-*Insert screenshot showing closed ticket*
+![Alternative text](../screenshots/closedtheticket.png)
 
 ---
 
@@ -149,7 +141,7 @@ This simulated a common Help Desk scenario where a technician assists a remote e
 
 ### Screenshot
 
-*Insert screenshot showing remote support session setup*
+![Alternative text](../screenshots/spiceworksremotesession.png)
 
 ---
 
@@ -166,7 +158,7 @@ Administrative tasks performed included:
 
 ### Screenshot
 
-*Insert screenshot showing active remote session*
+![Alternative text](../screenshots/spiceworksremoteopen.png)
 
 ---
 
@@ -178,7 +170,7 @@ This provided experience with documenting support interactions while actively tr
 
 ### Screenshot
 
-*Insert screenshot showing chat panel*
+![Alternative text](../screenshots/spiceworkschatinremotesession.png)
 
 ---
 
