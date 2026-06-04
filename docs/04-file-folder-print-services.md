@@ -192,17 +192,13 @@ was created within Active Directory Users and Computers.
 
 ### Screenshot
 
-*Insert screenshot showing Tech group creation*
+![Alternative text](../screenshots/creatingasecuritygroup.png)
 
 ---
 
 ## Adding Group Members
 
 The Mike account was added to the Tech security group.
-
-### Screenshot
-
-*Insert screenshot showing Mike added to Tech group*
 
 ---
 
@@ -219,7 +215,7 @@ This approach offers several benefits:
 
 ### Screenshot
 
-*Insert screenshot showing group-based folder permissions*
+![Alternative text](../screenshots/usingasecuritygroupfornetworkaccess.png)
 
 ---
 
@@ -231,7 +227,7 @@ This confirmed successful implementation of role-based access control.
 
 ### Screenshot
 
-*Insert screenshot showing successful access through security group membership*
+![Alternative text](../screenshots/securitygrouppersonaldriveaccess.png)
 
 ---
 
@@ -248,10 +244,6 @@ Personal
 was created.
 
 The purpose of this folder was to simulate user home directories commonly used in enterprise environments.
-
-### Screenshot
-
-*Insert screenshot showing Personal share creation*
 
 ---
 
@@ -283,7 +275,7 @@ This demonstrated successful home folder mapping through Active Directory.
 
 ### Screenshot
 
-*Insert screenshot showing mapped home drive*
+![Alternative text](../screenshots/securitygrouppersonaldriveaccess.png)
 
 ---
 
