@@ -1,4 +1,4 @@
-![Alternative text](../screenshots/Windowsserver2022downloaded.png)
+![Alternative text](screenshots/Windowsserver2022downloaded.png)
 
 # Active Directory Help Desk Homelab
 
