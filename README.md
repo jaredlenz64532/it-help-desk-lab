@@ -88,23 +88,15 @@ The objective of this lab was to simulate common responsibilities performed by H
 
 ## Project Walkthrough
 
-| Part | Topic                                |
-| ---- | ------------------------------------ |
-| 1    | Windows Server Installation          |
-| 2    | Active Directory Deployment          |
-| 3    | User Management                      |
-| 4    | Domain-Joined Workstation            |
-| 5    | Group Policy and Account Security    |
-| 6    | Action1 Patch Management             |
-| 7    | File Shares and Security Groups      |
-| 8    | User Restriction Policies            |
-| 9    | Organizational Units and Home Drives |
-| 10   | Action1 Agent Deployment             |
-| 11   | PDQ Deploy                           |
-| 12   | PDQ Inventory                        |
-| 13   | Print Services                       |
-| 14   | Spiceworks Help Desk                 |
-| 15   | Delegation of Control                |
+| Phase | Topic                                         |
+| ----- | --------------------------------------------- |
+| 1     | Infrastructure Setup                          |
+| 2     | Active Directory Administration               |
+| 3     | Group Policy Management                       |
+| 4     | File, Folder, and Print Services              | 
+| 5     | Endpoint Management & Software Deployment     |
+| 6     | Help Desk Operations                          |
+
 
 ## Screenshots
 
