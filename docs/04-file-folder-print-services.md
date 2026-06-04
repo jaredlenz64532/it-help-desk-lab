@@ -331,7 +331,7 @@ Manage
 
 ### Screenshot
 
-*Insert screenshot showing Print Services installation*
+![Alternative text](../screenshots/installingprintservices.png)
 
 ---
 
@@ -344,11 +344,6 @@ Server Manager
 → Tools
 → Print Management
 ```
-
-### Screenshot
-
-*Insert screenshot showing Print Management console*
-
 ---
 
 ## Creating a Shared Printer
@@ -365,7 +360,7 @@ The printer was then shared and published within Active Directory.
 
 ### Screenshot
 
-*Insert screenshot showing printer creation*
+![Alternative text](../screenshots/addingaprinter.png)
 
 ---
 
@@ -377,7 +372,7 @@ This ensured that users assigned to the group could access the shared printer.
 
 ### Screenshot
 
-*Insert screenshot showing printer security settings*
+![Alternative text](../screenshots/addingpermissionsforprinter.png)
 
 ---
 
@@ -393,7 +388,7 @@ Successful access confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing printer available on Windows 11*
+![Alternative text](../screenshots/printeravailableondesktopvm.png)
 
 ---
 
