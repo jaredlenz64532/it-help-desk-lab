@@ -160,7 +160,7 @@ Organizational Units are commonly used to:
 
 ### Screenshot
 
-*Insert screenshot showing IT OU creation*
+![Alternative text](../screenshots/creatinganou.png)
 
 ---
 
@@ -172,7 +172,7 @@ This demonstrated how administrators can quickly locate objects within large env
 
 ### Screenshot
 
-*Insert screenshot showing ADUC Find feature*
+![Alternative text](../screenshots/findingauserwiththeDC.png)
 
 ---
 
@@ -193,7 +193,7 @@ The OU was then successfully deleted.
 
 ### Screenshot
 
-*Insert screenshot showing deletion protection setting*
+![Alternative text](../screenshots/deletinganou.png)
 
 ---
 
