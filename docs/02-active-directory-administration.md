@@ -62,7 +62,7 @@ The user creation process included:
 
 ### Screenshot
 
-*Insert screenshot showing creation of John Computer account*
+![Alternative text](../screenshots/creatingauserAD.png)
 
 ---
 
@@ -83,7 +83,7 @@ The output confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing net user verification*
+![Alternative text](../screenshots/checkingjohnuser.png)
 
 ---
 
