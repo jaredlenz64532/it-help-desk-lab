@@ -216,7 +216,7 @@ The application was installed on the Windows Server 2022 Domain Controller.
 
 ### Screenshot
 
-*Insert screenshot showing PDQ Deploy installation*
+![Alternative text](../screenshots/pdqinstalled.png)
 
 ---
 
@@ -228,7 +228,7 @@ PDQ Deploy provides preconfigured packages that allow administrators to deploy s
 
 ### Screenshot
 
-*Insert screenshot showing package library*
+![Alternative text](../screenshots/pdqworking.png)
 
 ---
 
@@ -244,7 +244,7 @@ A deployment was initiated to the server endpoint.
 
 ### Screenshot
 
-*Insert screenshot showing deployment configuration*
+![Alternative text](../screenshots/deployingpdfsamwithpdq.png)
 
 ---
 
@@ -260,7 +260,7 @@ This confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing successful deployment*
+![Alternative text](../screenshots/pdfsaminstalled.png)
 
 ---
 
