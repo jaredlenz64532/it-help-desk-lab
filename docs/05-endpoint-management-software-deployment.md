@@ -56,7 +56,7 @@ After registration, the Action1 management portal was accessed through the web d
 
 ### Screenshot
 
-*Insert screenshot showing Action1 dashboard*
+![Alternative text](../screenshots/action1dashboard.png)
 
 ---
 
@@ -68,7 +68,7 @@ To transfer the installer into the virtual environment, the installer was copied
 
 ### Screenshot
 
-*Insert screenshot showing Action1 agent download*
+![Alternative text](../screenshots/action1sharedfolder.png)
 
 ---
 
@@ -79,10 +79,6 @@ The Action1 agent was installed on the Domain Controller.
 To allow communication with the Action1 cloud platform, the network adapter was temporarily configured to use a bridged network connection.
 
 Once internet connectivity was established, the installation completed successfully.
-
-### Screenshot
-
-*Insert screenshot showing Action1 agent installation*
 
 ---
 
@@ -98,7 +94,7 @@ This confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing endpoint registered in Action1*
+![Alternative text](../screenshots/action1endpointdetected.png)
 
 ---
 
