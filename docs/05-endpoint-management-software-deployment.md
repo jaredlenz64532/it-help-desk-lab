@@ -274,7 +274,7 @@ The installation process was completed using the same deployment workflow utiliz
 
 ### Screenshot
 
-*Insert screenshot showing PDQ Inventory installation*
+![Alternative text](../screenshots/pqdinventoryinstalled.png)
 
 ---
 
@@ -291,7 +291,7 @@ The platform gathered extensive endpoint information including:
 
 ### Screenshot
 
-*Insert screenshot showing system inventory data*
+![Alternative text](../screenshots/pqdinventorypcinfo.png)
 
 ---
 
@@ -305,10 +305,6 @@ Examples include:
 * Memory allocation
 * Storage details
 * Operating system version
-
-### Screenshot
-
-*Insert screenshot showing hardware inventory details*
 
 ---
 
@@ -324,7 +320,7 @@ This capability allows administrators to:
 
 ### Screenshot
 
-*Insert screenshot showing software inventory report*
+![Alternative text](../screenshots/appreportonsrvr2022.png)
 
 ---
 
@@ -343,7 +339,7 @@ Examples include:
 
 ### Screenshot
 
-*Insert screenshot showing inventory reports*
+![Alternative text](../screenshots/reportondesktopwithpdq.png)
 
 ---
 
