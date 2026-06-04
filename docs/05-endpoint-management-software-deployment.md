@@ -106,10 +106,6 @@ Within Action1, the endpoint was scanned for available updates.
 
 The platform identified applicable Windows updates that could be deployed remotely.
 
-### Screenshot
-
-*Insert screenshot showing available updates*
-
 ---
 
 ## Deploying Updates
@@ -117,10 +113,6 @@ The platform identified applicable Windows updates that could be deployed remote
 Action1's patch management functionality was used to deploy updates to the Windows Server endpoint.
 
 The update deployment process was initiated through the management dashboard.
-
-### Screenshot
-
-*Insert screenshot showing update deployment*
 
 ---
 
@@ -136,7 +128,7 @@ This verified:
 
 ### Screenshot
 
-*Insert screenshot showing successful update installation*
+![Alternative text](../screenshots/action1deployupdates.png)
 
 ---
 
@@ -154,7 +146,9 @@ Several report types were reviewed during testing, including:
 
 ### Screenshot
 
-*Insert screenshot showing Action1 reports*
+![Alternative text](../screenshots/hardwareendpointsreport.png)
+
+![Alternative text](../screenshots/managedendpointsreport.png)
 
 ---
 
