@@ -212,7 +212,7 @@ To simplify permission management, security groups were created within Active Di
 
 ### Screenshot
 
-*Insert screenshot showing security group creation*
+![Alternative text](../screenshots/creatingasecuritygroup.png)
 
 ---
 
@@ -233,7 +233,7 @@ Benefits include:
 
 ### Screenshot
 
-*Insert screenshot showing group membership configuration*
+![Alternative text](../screenshots/securitygrouppersonaldriveaccess.png)
 
 ---
 
@@ -249,7 +249,7 @@ The command output displayed the groups assigned to the user.
 
 ### Screenshot
 
-*Insert screenshot showing command output*
+![Alternative text](../screenshots/mikegpoenforced.png)
 
 ---
 
