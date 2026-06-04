@@ -269,7 +269,7 @@ Successful responses confirmed proper DNS resolution and network communication.
 
 ### Screenshot
 
-*Insert screenshot showing successful ping results*
+![Alternative text](../screenshots/wn11canreachdomain.png)
 
 ---
 
@@ -298,10 +298,6 @@ Domain Administrator credentials were provided when prompted.
 
 The workstation was restarted after the join process completed.
 
-### Screenshot
-
-*Insert screenshot showing successful domain join message*
-
 ---
 
 ## Verifying Computer Object Creation
@@ -314,7 +310,7 @@ This confirmed successful domain registration.
 
 ### Screenshot
 
-*Insert screenshot showing computer object in ADUC*
+![Alternative text](../screenshots/windows11joinedthedomain.png)
 
 ---
 
@@ -328,7 +324,7 @@ Authentication succeeded through Active Directory, confirming that domain servic
 
 ### Screenshot
 
-*Insert screenshot showing domain login screen*
+![Alternative text](../screenshots/loggedinasmike.png)
 
 ---
 
@@ -347,7 +343,7 @@ This verified:
 
 ### Screenshot
 
-*Insert screenshot showing RDP session connected to AZ-DC-01*
+![Alternative text](../screenshots/RDPintosrvr2022.png)
 
 ---
 
