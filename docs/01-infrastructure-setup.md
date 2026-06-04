@@ -86,7 +86,9 @@ After installation:
 
 ### Screenshot
 
-*Insert screenshot showing completed Windows Server installation*
+![Alternative text](../screenshots/Installingserver2022.png)
+
+![Alternative text](../screenshots/Windowsserver2022running.png)
 
 ---
 
@@ -102,7 +104,7 @@ This launched the Remote Shutdown Dialog, demonstrating access to common adminis
 
 ### Screenshot
 
-*Insert screenshot showing Remote Shutdown Dialog*
+![Alternative text](../screenshots/ws2022shutdown.png)
 
 ---
 
