@@ -59,10 +59,6 @@ Server Manager
 
 The Default Domain Policy was selected and edited.
 
-### Screenshot
-
-*Insert screenshot showing Group Policy Management console*
-
 ---
 
 ## Configuring Password Policy
@@ -89,17 +85,13 @@ Examples of configurable settings include:
 
 ### Screenshot
 
-*Insert screenshot showing Password Policy settings*
+![Alternative text](../screenshots/passwordgrouppolicy.png)
 
 ---
 
 ## Applying the Policy
 
 After modifying the password policy, the Default Domain Policy was enforced to ensure the settings would apply across the domain.
-
-### Screenshot
-
-*Insert screenshot showing policy enforcement*
 
 ---
 
@@ -130,7 +122,7 @@ Account lockout settings were configured to improve security and protect against
 
 ### Screenshot
 
-*Insert screenshot showing Account Lockout Policy*
+![Alternative text](../screenshots/accountlockoutgrouppolicy.png)
 
 ---
 
@@ -146,7 +138,7 @@ This simulates a common Help Desk support issue where users are unable to log in
 
 ### Screenshot
 
-*Insert screenshot showing account lockout error*
+![Alternative text](../screenshots/mikeislockedout.png)
 
 ---
 
@@ -159,10 +151,6 @@ Using Active Directory Users and Computers:
 3. Unlock the account
 
 This restored access for the user.
-
-### Screenshot
-
-*Insert screenshot showing account unlock option*
 
 ---
 
