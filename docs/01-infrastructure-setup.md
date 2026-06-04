@@ -223,7 +223,9 @@ The number of assigned processors was increased, after which the virtual machine
 
 ### Screenshot
 
-*Insert screenshot showing Windows 11 VM configuration*
+![Alternative text](../screenshots/Windows11isodownloaded.png)
+
+![Alternative text](../screenshots/installingwindows11.png)
 
 ---
 
@@ -243,7 +245,7 @@ This allowed creation of a local administrator account for lab purposes.
 
 ### Screenshot
 
-*Insert screenshot showing OOBE bypass process*
+![Alternative text](../screenshots/windows11installed.png)
 
 ---
 
