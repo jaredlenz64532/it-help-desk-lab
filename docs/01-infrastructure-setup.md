@@ -124,7 +124,7 @@ The server was restarted to apply the hostname change.
 
 ### Screenshot
 
-*Insert screenshot showing system properties with AZ-DC-01 hostname*
+![Alternative text](../screenshots/server2022renamed.png)
 
 ---
 
@@ -140,7 +140,7 @@ The Add Roles and Features Wizard was used to complete the installation.
 
 ### Screenshot
 
-*Insert screenshot showing AD DS role installation*
+![Alternative text](../screenshots/installingactivedirectory.png)
 
 ---
 
@@ -158,7 +158,9 @@ The Active Directory configuration wizard completed successfully and the server 
 
 ### Screenshot
 
-*Insert screenshot showing domain creation wizard*
+![Alternative text](../screenshots/Domaincontrollernormalinstall.png)
+
+![Alternative text](../screenshots/ADandDCinstalled.png)
 
 ---
 
@@ -199,7 +201,7 @@ These commands confirmed:
 
 ### Screenshot
 
-*Insert screenshot showing command verification output*
+![Alternative text](../screenshots/systeminformationsrvr2022.png)
 
 ---
 
